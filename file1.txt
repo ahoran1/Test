@@ -1,3 +1,0 @@
-I'm making my first git file
-Now I'm adding even more text to my git.
-Here's some more
